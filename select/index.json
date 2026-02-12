@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "マシマロ",
+  "base_artist": "甘党男子",
+  "createdAt": "2026-02-12T12:12:25.028683Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マシマロ",
+      "artist": "怒髪天",
+      "has_synced": false,
+      "path": "select/01_マシマロ_怒髪天.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "マシマロ",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/02_マシマロ_Aimyon.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "マシマロ",
+      "artist": "Tamio Okuda",
+      "has_synced": true,
+      "path": "select/03_マシマロ_Tamio_Okuda.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マシマロ",
+      "artist": "甘党男子",
+      "has_synced": false,
+      "path": "select/pl_01_マシマロ_甘党男子.txt"
+    }
+  ]
+}
